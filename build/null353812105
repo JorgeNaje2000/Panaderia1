@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_231-b11 (Oracle Corporation)
+Trusted-Library: true
+Codebase: C:\Users\jessu\Desktop\Base de datos\Panaderia\dist
+Application-Library-Allowable-Codebase: C:\Users\jessu\Desktop\Base de
+  datos\Panaderia\dist
+Caller-Allowable-Codebase: C:\Users\jessu\Desktop\Base de datos\Panade
+ ria\dist
+Permissions: all-permissions
+Application-Name: Panaderia
+
